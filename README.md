@@ -1,37 +1,36 @@
-**SCHOOLDOXV2** adalah tools Python profesional untuk mengambil, mencari, dan memvalidasi **data siswa sekolah di Indonesia**. Dirancang untuk analis data pendidikan yang membutuhkan data lengkap dan akurat  
+**SCHOOLDOXV2** Adalah Program Script Profesional Untuk Mengambil, Mencari & Memvalidasi Data Siswa Sekolah Di Indonesia, Dirancang Untuk Analis Data Pendidikan Yang Membutuhkan Data Lengkap & Akurat  
 
 ---
-## Dump data siswa lengkap berdasarkan NPSN Sekolah & Menyediakan informasi lengkap siswa, termasuk
+## Dump Data Siswa Lengkap Berdasarkan Npsn Sekolah & Menyediakan Informasi Lengkap Siswa, Termasuk
 <img src="ss1.jpg" alt="IP Result" width="100%">
 
-  - Nama lengkap
-  - Jenis kelamin
-  - Tanggal lahir
-  - Nama ibu kandung
-  - NIK / NISN
-  - Rombel / Tingkat
-  - Peserta_didik_id
+  - Nama Lengkap
+  - Jenis Kelamin
+  - Tanggal Lahir
+  - Nama Ibu Kandung
+  - Nik/Nisn
+  - Rombel/Tingkat
+  - Peserta Didik Id
   - Validasi KPU & Revesery
-  - koordinat & link Google Maps
+  - Koordinat/Link Google Maps
     
 ## Video Demo [![Tonton Video](https://img.youtube.com/vi/ORi0H44XJPE/0.jpg)](https://youtube.com/shorts/ORi0H44XJPE?si=CUYhKsBcg7_41ZnU)
 
 
 
-## Simpan hasil otomatis dalam JSON & CSV
+## Data Siswa Tersimpan Rapi Dalam Format Json & Csv
 <img src="anjay.jpg" alt="IP Result" width="100%">
 <img src="IMG_20251114_170618.jpg" alt="IP Result" width="50%">
 
-### Data siswa **tersimpan rapi** dalam format JSON dan CSV
-### Validasi data menggunakan sumber resmi Dukcapil/Dapodik/Kemendikbud
-### Menyediakan lokasi siswa lengkap untuk analisis data
-### Sistem pencarian interaktif berdasarkan nama siswa 
-### Output mudah digunakan & dibagikan 
+### Validasi Data Menggunakan Sumber Resmi Dukcapil/Dapodik/Kemendikbud
+### Menyediakan Lokasi Siswa Lengkap Untuk Analisis Data
+### Sistem Pencarian Interaktif Berdasarkan Nama Siswa 
+### Output Mudah Digunakan & Dibagikan 
 
 ---
 
 ### Harga & Lisensi
-Program Script Ini **Di Jual!** 
+Program Script Ini **PREMIUM** 
 - **Harga:** **Rp500.000** ( Permanet & Open Source )
 - Lisensi Berlaku Permanent & Open Source  
 - Update & Perbaikan Bug Tersedia Gratis Setelah Pembelian  
