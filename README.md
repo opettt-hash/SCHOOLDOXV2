@@ -4,7 +4,7 @@
 
 ### Fitur Utama
 ## Simpan hasil otomatis dalam JSON & CSV
-<img src=".jpg" alt="IP Result" width="100%">
+<img src="anjay.jpg" alt="IP Result" width="100%">
 
 - Ambil **data siswa lengkap** berdasarkan **NPSN Sekolah**
 - Menyediakan **informasi lengkap siswa**, termasuk:
