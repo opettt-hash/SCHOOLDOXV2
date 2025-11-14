@@ -3,7 +3,7 @@
 ---
 
 ### Fitur Utama
-- Ambil **data siswa lengkap** berdasarkan **NPSN Sekolah** & Menyediakan **informasi lengkap siswa**, termasuk
+## Ambil **data siswa lengkap** berdasarkan **NPSN Sekolah** & Menyediakan **informasi lengkap siswa**, termasuk
 <img src="ss1.jpg" alt="IP Result" width="100%">
 
   - Nama lengkap
