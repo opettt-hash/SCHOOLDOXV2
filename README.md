@@ -14,7 +14,7 @@
   - Validasi KPU & Revesery
   - koordinat & link Google Maps
     
-## Demo Video [![Tonton Video](https://img.youtube.com/vi/ORi0H44XJPE/0.jpg)](https://youtube.com/shorts/ORi0H44XJPE?si=CUYhKsBcg7_41ZnU)
+## Video Demo [![Tonton Video](https://img.youtube.com/vi/ORi0H44XJPE/0.jpg)](https://youtube.com/shorts/ORi0H44XJPE?si=CUYhKsBcg7_41ZnU)
 
 
 
