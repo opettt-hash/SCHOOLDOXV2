@@ -22,7 +22,7 @@
 
 ## Simpan hasil otomatis dalam JSON & CSV
 <img src="anjay.jpg" alt="IP Result" width="100%">
-<img src="IMG_20251114_170618.jpg" alt="IP Result" width="100%">
+<img src="IMG_20251114_170618.jpg" alt="IP Result" width="50%">
 ---
 
 ### Keunggulan
