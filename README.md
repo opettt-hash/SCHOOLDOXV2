@@ -14,7 +14,11 @@
   - Rombel / Tingkat
   - Peserta_didik_id
   - Validasi KPU & Revesery
-  - Koordinat & link Google Maps
+  - koordinat & link Google Maps
+    
+## Demo Video [![Tonton Video](https://img.youtube.com/vi/ORi0H44XJPE/0.jpg)](https://youtube.com/shorts/ORi0H44XJPE?si=CUYhKsBcg7_41ZnU)
+
+
 
 ## Simpan hasil otomatis dalam JSON & CSV
 <img src="anjay.jpg" alt="IP Result" width="100%">
