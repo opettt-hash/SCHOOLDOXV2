@@ -23,11 +23,11 @@
 
 ---
 
-## 📊 Contoh Output
+## Contoh Output
 
 ---
 
-## 🎯 Keunggulan
+## Keunggulan
 
 - Data siswa **tersimpan rapi** dalam format JSON dan CSV
 - Validasi data menggunakan **sumber resmi**
@@ -37,7 +37,7 @@
 
 ---
 
-## 🔐 Lisensi
+## Lisensi
 
 - SCOLDOX V2 **dijual secara legal** oleh Rolandino
 - Setiap pembeli menerima **script siap pakai**
