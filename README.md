@@ -22,10 +22,7 @@
 
 ## Simpan hasil otomatis dalam JSON & CSV
 <img src="anjay.jpg" alt="IP Result" width="100%">
-
-
-## Demo Video [![Tonton Video](https://img.youtube.com/vi/ORi0H44XJPE/0.jpg)](https://youtube.com/shorts/ORi0H44XJPE?si=CUYhKsBcg7_41ZnU)
-
+<img src="IMG_20251114_170618.jpg" alt="IP Result" width="100%">
 ---
 
 ### Keunggulan
