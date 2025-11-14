@@ -24,3 +24,21 @@
 ---
 
 ## 📊 Contoh Output
+
+---
+
+## 🎯 Keunggulan
+
+- Data siswa **tersimpan rapi** dalam format JSON dan CSV
+- Validasi data menggunakan **sumber resmi**
+- Menyediakan **lokasi siswa lengkap** untuk analisis
+- Sistem **pencarian interaktif** berdasarkan nama
+- Output mudah dibagikan dan dianalisis
+
+---
+
+## 🔐 Lisensi
+
+- SCOLDOX V2 **dijual secara legal** oleh Rolandino
+- Setiap pembeli menerima **script siap pakai**
+- **Dilarang membagikan ulang** tanpa izin penulis
