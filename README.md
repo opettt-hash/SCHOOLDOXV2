@@ -23,10 +23,10 @@
 <img src="IMG_20251114_170618.jpg" alt="IP Result" width="50%">
 
 ### Data siswa **tersimpan rapi** dalam format JSON dan CSV
-### Validasi data menggunakan **sumber resmi**
-### Menyediakan **lokasi siswa lengkap** untuk analisis
-### Sistem **pencarian interaktif** berdasarkan nama
-### Output mudah dibagikan dan dianalisis
+### Validasi data menggunakan sumber resmi Dukcapil/Dapodik/Kemendikbud
+### Menyediakan lokasi siswa lengkap untuk analisis data
+### Sistem pencarian interaktif berdasarkan nama siswa 
+### Output mudah digunakan & dibagikan 
 
 ---
 
