@@ -54,7 +54,7 @@ Program Script Ini **Di Jual!**
   
 ---
 ### Peringatan
-<img src="rolandino.jpg" alt="IP Result" width="100%">
+<img src="IMG_20251111_133101_709.jpg" alt="IP Result" width="100%">
 
 Program Ini Dibuat Hanya Untuk Riset Investigasi, Analis Data & Tujuan Edukasi, Segala Penyalahgunaan Di Luar Tujuan **BUKAN TANGGUNG JAWAB PENGEMBANG!**
 
