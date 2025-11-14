@@ -2,7 +2,7 @@
 
 ---
 
-## Fitur Utama
+### Fitur Utama
 
 - Ambil **data siswa lengkap** berdasarkan **NPSN Sekolah**
 - Simpan hasil otomatis dalam **JSON & CSV**
@@ -24,14 +24,14 @@
 
 ---
 
-## Contoh Output
+### Contoh Output
 <img src="ss1.jpg" alt="IP Result" width="100%">
 
 ## Demo Video [![Tonton Video](https://img.youtube.com/vi/ORi0H44XJPE/0.jpg)](https://youtube.com/shorts/ORi0H44XJPE?si=CUYhKsBcg7_41ZnU)
 
 ---
 
-## Keunggulan
+### Keunggulan
 
 - Data siswa **tersimpan rapi** dalam format JSON dan CSV
 - Validasi data menggunakan **sumber resmi**
