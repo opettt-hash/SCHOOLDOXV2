@@ -21,15 +21,12 @@
 ## Simpan hasil otomatis dalam JSON & CSV
 <img src="anjay.jpg" alt="IP Result" width="100%">
 <img src="IMG_20251114_170618.jpg" alt="IP Result" width="50%">
----
 
-### Keunggulan
-
-- Data siswa **tersimpan rapi** dalam format JSON dan CSV
-- Validasi data menggunakan **sumber resmi**
-- Menyediakan **lokasi siswa lengkap** untuk analisis
-- Sistem **pencarian interaktif** berdasarkan nama
-- Output mudah dibagikan dan dianalisis
+## Data siswa **tersimpan rapi** dalam format JSON dan CSV
+## Validasi data menggunakan **sumber resmi**
+## Menyediakan **lokasi siswa lengkap** untuk analisis
+## Sistem **pencarian interaktif** berdasarkan nama
+## Output mudah dibagikan dan dianalisis
 
 ---
 
