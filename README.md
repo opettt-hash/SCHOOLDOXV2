@@ -1,4 +1,4 @@
-**SCHOOLDOXV2** Adalah Program Script Profesional Untuk Mengambil, Mencari & Memvalidasi Data Siswa Sekolah Di Indonesia, Dirancang Untuk Analis Data Pendidikan Yang Membutuhkan Data Lengkap & Akurat  
+**SCHOOLDOXV2** Adalah Program Script Profesional Untuk Mengambil, Mencari & Memvalidasi Data Siswa Sekolah Di Indonesia, Dirancang Untuk Analis Data Pendidikan Yang Lengkap & Akurat  
 
 ---
 ## Dump Data Siswa Lengkap Berdasarkan Npsn Sekolah & Menyediakan Informasi Lengkap Siswa, Termasuk
