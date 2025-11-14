@@ -3,6 +3,19 @@
 ---
 
 ### Fitur Utama
+- Ambil **data siswa lengkap** berdasarkan **NPSN Sekolah** & Menyediakan **informasi lengkap siswa**, termasuk
+<img src="ss1.jpg" alt="IP Result" width="100%">
+
+  - Nama lengkap
+  - Jenis kelamin
+  - Tanggal lahir
+  - Nama ibu kandung
+  - NIK / NISN
+  - Rombel / Tingkat
+  - Peserta_didik_id
+  - Validasi KPU & Revesery
+  - Koordinat & link Google Maps
+
 ## Simpan hasil otomatis dalam JSON & CSV
 <img src="anjay.jpg" alt="IP Result" width="100%">
 
