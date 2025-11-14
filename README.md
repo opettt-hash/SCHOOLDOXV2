@@ -3,13 +3,10 @@
 ---
 
 ### Fitur Utama
+## Simpan hasil otomatis dalam JSON & CSV
+<img src=".jpg" alt="IP Result" width="100%">
 
 - Ambil **data siswa lengkap** berdasarkan **NPSN Sekolah**
-- Simpan hasil otomatis dalam **JSON & CSV**
-- Cari siswa berdasarkan **Nama Lengkap**
-- Validasi data siswa melalui **KPU**
-- Validasi data siswa melalui **Revesery**
-- Tampilkan lokasi siswa langsung di **Google Maps**
 - Menyediakan **informasi lengkap siswa**, termasuk:
 
   - Nama lengkap
