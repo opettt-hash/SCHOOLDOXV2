@@ -1,8 +1,6 @@
 **SCHOOLDOXV2** adalah tools Python profesional untuk mengambil, mencari, dan memvalidasi **data siswa sekolah di Indonesia**. Dirancang untuk analis data pendidikan yang membutuhkan data lengkap dan akurat  
 
 ---
-
-### Fitur Utama
 ## Ambil **data siswa lengkap** berdasarkan **NPSN Sekolah** & Menyediakan **informasi lengkap siswa**, termasuk
 <img src="ss1.jpg" alt="IP Result" width="100%">
 
