@@ -41,8 +41,21 @@
 
 ---
 
-## Lisensi
+### Harga & Lisensi
+Program Script Ini **Di Jual!** 
+- **Harga:** **Rp500.000** ( Permanet & Open Source )
+- Lisensi Berlaku Permanent & Open Source  
+- Update & Perbaikan Bug Tersedia Gratis Setelah Pembelian  
 
-- SCOLDOX V2 **dijual secara legal** oleh Rolandino
-- Setiap pembeli menerima **script siap pakai**
-- **Dilarang membagikan ulang** tanpa izin penulis
+ Untuk Pembelian & Lisensi Hubungi  
+- **Telegram :** [@rolandino28](https://t.me/rolandino28)
+- **Grup Telegram :** [t.me/Crackers_Teamm](https://t.me/Crackers_Teamm)
+- **Channel Testimoni :** [t.me/rolandinoanjay](https://t.me/rolandinoanjay)
+  
+---
+### Peringatan
+<img src="Rolandino.jpg" alt="IP Result" width="100%">
+
+Program Ini Dibuat Hanya Untuk Riset Investigasi, Analis Data & Tujuan Edukasi, Segala Penyalahgunaan Di Luar Tujuan **BUKAN TANGGUNG JAWAB PENGEMBANG!**
+
+---
