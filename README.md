@@ -25,7 +25,8 @@
 ---
 
 ## Contoh Output
-
+<img src="ss1.jpg" alt="IP Result" width="100%">
+ 
 ---
 
 ## Keunggulan
