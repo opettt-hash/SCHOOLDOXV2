@@ -11,6 +11,7 @@
 - Validasi data siswa melalui **Revesery**
 - Tampilkan lokasi siswa langsung di **Google Maps**
 - Menyediakan **informasi lengkap siswa**, termasuk:
+
   - Nama lengkap
   - Jenis kelamin
   - Tanggal lahir
