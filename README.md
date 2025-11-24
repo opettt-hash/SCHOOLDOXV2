@@ -25,6 +25,28 @@
 - Email
 - Kode Jenis Peserta
 - Segmen Peserta
+
+ ## Validate Ke PTK
+<img src="ptk.jpg" alt="IP Result" width="100%">
+
+- Nama Lengkap
+- Nuptk
+- Nik
+- Status 
+- Sekolah
+- Npsn
+- Provinsi
+- Kab/Kota
+- No Surat
+- Tgl Surat
+- Tmt Tugas
+- Id Ptk
+- Id Dapodik
+- Wkt Sinkron
+- Wkt Terbit
+- Jenis Ptk
+- Status Pegawai
+- Kategori
   
 ## Database Siswa Tersimpan Rapi Dalam Format Json & Csv
 <img src="anjay.jpg" alt="IP Result" width="100%">
