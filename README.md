@@ -17,8 +17,17 @@
     
 ## Video Demo [![Tonton Video](https://img.youtube.com/vi/ORi0H44XJPE/0.jpg)](https://youtube.com/shorts/f8zykSlW6lQ?si=VSLxJ5CeLuwKOV18)
 
+## Validate NIk Ke Metadata BPJS 
+<img src="update.jpg" alt="IP Result" width="100%">
 
-
+- Nik
+- Nama Lengkap
+- Nomor Kartu BPJS Peserta
+- Nomor Hp
+- Email
+- Kode Jenis Peserta
+- Segmen Peserta
+  
 ## Data Siswa Tersimpan Rapi Dalam Format Json & Csv
 <img src="anjay.jpg" alt="IP Result" width="100%">
 <img src="IMG_20251114_170618.jpg" alt="IP Result" width="50%">
