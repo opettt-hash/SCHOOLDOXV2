@@ -15,7 +15,7 @@
   - Validasi KPU & Revesery
   - Koordinat/Link Google Maps
     
-## Validate NIk Ke Metadata BPJS 
+## Validate NIk Ke Metadata Bpjs 
 <img src="update.jpg" alt="IP Result" width="100%">
 
 - Nik
