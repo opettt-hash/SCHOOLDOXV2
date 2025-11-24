@@ -15,8 +15,6 @@
   - Validasi KPU & Revesery
   - Koordinat/Link Google Maps
     
-## Video Demo [![Tonton Video](https://img.youtube.com/vi/ORi0H44XJPE/0.jpg)](https://youtube.com/shorts/f8zykSlW6lQ?si=VSLxJ5CeLuwKOV18)
-
 ## Validate NIk Ke Metadata BPJS 
 <img src="update.jpg" alt="IP Result" width="100%">
 
