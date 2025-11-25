@@ -3,7 +3,7 @@
 
 ---
 ## Tonton Video Demo
-[![Tonton Video Demo](https://img.youtube.com/vi/f8zykSlW6lQ/0.jpg)](https://youtube.com/shorts/f8zykSlW6lQ?si=cXugQlgg8d2mvbA4)
+[![Tonton Video Demo](https://img.youtube.com/vi/f8zykSlW6lQ/0.jpg)](https://youtu.be/VzC8c_zNCmk?si=pb7yLjiGIDXRtw0p)
 
 ## Dump Database Siswa Lengkap Berdasarkan Npsn Sekolah & Menyediakan Informasi Lengkap Siswa, Termasuk
 <img src="ss1.jpg" alt="IP Result" width="100%">
