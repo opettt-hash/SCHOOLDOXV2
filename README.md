@@ -61,7 +61,7 @@
 
 ### Harga & Lisensi
 Program Script Ini **PREMIUM** 
-- **Harga:** **Rp600.000**
+- **Harga:** **Rp500.000**
 - Lisensi Berlaku Permanent & Open Source  
 - Update & Perbaikan Bug Tersedia Gratis Setelah Pembelian  
 
