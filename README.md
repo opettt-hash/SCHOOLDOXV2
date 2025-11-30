@@ -5,16 +5,9 @@
 ## Tonton Video Demo
 [![Tonton Video Demo](https://img.youtube.com/vi/f8zykSlW6lQ/0.jpg)](https://youtu.be/VzC8c_zNCmk?si=pb7yLjiGIDXRtw0p)
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta http-equiv="refresh" content="0; URL='https://t.me/absodhdhdidndodndocbot'" />
-<title>Redirecting…</title>
-</head>
-<body>
-<p>Redirecting to Telegram bot…</p>
-</body>
-</html>
+## SCHOOLDOXV2 BOT
+[Klik Untuk Akses Bot Di Telegram](https://t.me/absodhdhdidndodndocbot)
+
 ## Dump Database Siswa Lengkap Berdasarkan Npsn Sekolah & Menyediakan Informasi Lengkap Siswa, Termasuk
 <img src="ss1.jpg" alt="IP Result" width="100%">
 
