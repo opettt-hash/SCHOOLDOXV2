@@ -73,7 +73,7 @@ Program Script Ini **PREMIUM**
 
  Untuk Pembelian & Lisensi Hubungi  
 - **Telegram :** [@rolandino28](https://t.me/rolandino28)
-- **Grup Telegram :** [t.me/Crackers_Teamm](https://t.me/Crackers_Teamm)
+- **Grup Telegram :** [t.me/Crackers Communitiy](https://t.me/Crackers_Communitiy)
 - **Channel Testimoni :** [t.me/rolandinoanjay](https://t.me/rolandinoanjay)
   
 ---
