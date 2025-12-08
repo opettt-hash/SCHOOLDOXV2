@@ -2,9 +2,6 @@
 **SCHOOLDOXV2** Adalah Program Script Profesional Untuk Mengambil, Mencari & Memvalidasi Data Siswa Sekolah Di Indonesia, Dirancang Untuk Analis Data Pendidikan Yang Lengkap & Akurat  
 
 ---
-## Tonton Video Demo
-[![Tonton Video Demo](https://img.youtube.com/vi/f8zykSlW6lQ/0.jpg)](https://youtu.be/VzC8c_zNCmk?si=pb7yLjiGIDXRtw0p)
-
 ## SCHOOLDOXV2 BOT
 [Klik Untuk Akses Bot Di Telegram](https://t.me/absodhdhdidndodndocbot)
 
