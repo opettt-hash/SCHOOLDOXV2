@@ -54,6 +54,7 @@
 ## Database Siswa Tersimpan Rapi Dalam Format Json & Csv
 <img src="anjay.jpg" alt="IP Result" width="100%">
 <img src="IMG_20251114_170618.jpg" alt="IP Result" width="50%">
+<img src="scrap.jpg" alt="IP Result" width="50%">
 
 ### Validasi Data Menggunakan Sumber Resmi Dukcapil/Dapodik/Kemendikbud
 ### Menyediakan Lokasi Siswa Lengkap Untuk Analisis Data
