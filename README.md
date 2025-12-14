@@ -18,7 +18,7 @@
   - Validasi KPU & Revesery
   - Koordinat/Link Google Maps
     
-## Validate NIk Ke Metadata Bpjs 
+## Validate Ke Metadata Bpjs 
 <img src="update.jpg" alt="IP Result" width="100%">
 
 - Nik
@@ -28,6 +28,34 @@
 - Email
 - Kode Jenis Peserta
 - Segmen Peserta
+
+## Validate Ke Data Peserta BPJS
+<img src="hackers.jpg" alt="IP Result" width="100%">
+
+- Nomor Kartu BPJS Peserta 
+- Nik
+- Nama Lengkap
+- Kode Pisa
+- Jenis Kelamin
+- Data Rekam Medis
+- Tanggal Lahir
+- Tanggal Centak Kartu
+- Tanggal Akhir Berlalu Kartu
+- Tanggal Mulai Berlaku Kartu
+- Status Peserta
+- Provider Layanan
+- Jenis Peserta
+- Hak Kelas
+- Umur Peserta
+- Dinsos
+- Prolanisprb
+- Nosktm
+- Esep
+- Data Peserta Cob
+- Nomor Asuransi
+- Nama Asuransi
+- Tgltmt
+- tgltat
 
  ## Validate Ke PTK
 <img src="ptk.jpg" alt="IP Result" width="100%">
