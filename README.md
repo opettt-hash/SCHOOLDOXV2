@@ -5,7 +5,7 @@
 ## SCHOOLDOXV2 BOT
 [Klik Untuk Akses Bot Di Telegram](https://t.me/absodhdhdidndodndocbot)
 
-## Dump Database Siswa Lengkap Berdasarkan Npsn Sekolah & Menyediakan Informasi Lengkap Siswa, Termasuk
+## Dump Database Siswa Lengkap Berdasarkan Npsn Sekolah & Menyediakan Informasi Lengkap Siswa Termasuk
 <img src="ss1.jpg" alt="IP Result" width="100%">
 
   - Nama Lengkap
