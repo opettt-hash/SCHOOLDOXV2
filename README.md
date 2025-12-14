@@ -18,7 +18,7 @@
   - Validasi KPU & Revesery
   - Koordinat/Link Google Maps
     
-## Validate Ke Metadata Bpjs 
+## Validate Nik Ke Metadata Bpjs 
 <img src="update.jpg" alt="IP Result" width="100%">
 
 - Nik
@@ -29,7 +29,7 @@
 - Kode Jenis Peserta
 - Segmen Peserta
 
-## Validate Ke Data Peserta BPJS
+## Validate Nik Ke Data Peserta BPJS
 <img src="hackers.jpg" alt="IP Result" width="100%">
 
 - Nomor Kartu BPJS Peserta 
