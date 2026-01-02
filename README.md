@@ -1,3 +1,5 @@
+> **PERINGATAN Saya Adalah Development Resmi SCHOOLDOX, Saya Selalu Mengawasi Setiap Request Dari User Yang Membeli Open Source Program Script Saya, Jika Ketahuan Ada Reseller Yang Menjual Source Code Maka Akses Source Tersebut Akan Saya Nonaktifkan Permanent!**  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FF00&center=true&vCenter=true&width=900&lines=SCHOOLDOXV2+INTELLIGENCE+DOXING+TOOLKIT)](https://git.io/typing-svg)
 **SCHOOLDOXV2** Adalah Program Script Profesional Untuk Mengambil, Mencari & Memvalidasi Data Siswa Sekolah Di Indonesia, Dirancang Untuk Analis Data Pendidikan Yang Lengkap & Akurat  
 
