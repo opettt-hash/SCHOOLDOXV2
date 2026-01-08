@@ -97,7 +97,7 @@
 
 ### Harga & Lisensi
 Program Script Ini **DIJUAL!** 
-- **Harga:** **Rp1.000.000**
+- **Harga:** **Rp600.000**
 - Lisensi Berlaku Permanent & Open Source  
 - Update & Perbaikan Bug Tersedia Gratis Setelah Pembelian  
 
