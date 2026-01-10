@@ -9,7 +9,7 @@
 ## SCHOOLDOXV2 BOT
 [Klik Untuk Akses Bot Di Telegram](https://t.me/absodhdhdidndodndocbot)
 
-## Dump Database Siswa Lengkap Berdasarkan Npsn Sekolah & Menyediakan Informasi Lengkap Siswa Termasuk
+## Dump Database Siswa Lengkap Berdasarkan Npsn Nama Sekolah & Menyediakan Informasi Lengkap Siswa Termasuk
 <img src="ss1.jpg" alt="IP Result" width="100%">
 
   - Nama Lengkap
@@ -25,7 +25,6 @@
 ## Validate Nik Ke Metadata Bpjs 
 <img src="update.jpg" alt="IP Result" width="100%">
 
-- Nik
 - Nama Lengkap
 - Nomor Kartu BPJS Peserta
 - Nomor Hp
@@ -37,7 +36,6 @@
 <img src="hackers.jpg" alt="IP Result" width="100%">
 
 - Nomor Kartu BPJS Peserta 
-- Nik
 - Nama Lengkap
 - Kode Pisa
 - Jenis Kelamin
