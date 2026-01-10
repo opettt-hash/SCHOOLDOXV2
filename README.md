@@ -59,7 +59,7 @@
 - Tgltmt
 - tgltat
 
- ## Validate Ke PTK
+ ## Validate Ke Data PTK
 <img src="ptk.jpg" alt="IP Result" width="100%">
 
 - Nama Lengkap
